@@ -47,7 +47,7 @@ class Program
                 Console.WriteLine("Your grade is D+");
             }
         if(G<60){
-            Console.WriteLine("Your grade is A");
+            Console.WriteLine("Your grade is F");
         }
         else{
             Console.WriteLine("You need to enter a correct number");
